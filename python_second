@@ -1,0 +1,6 @@
+
+def reverse(message):
+    return message[::-1]
+    
+my_msg = reverse("!!..detelpmoc ksat yllufsecus")
+print(my_msg)
